@@ -86,13 +86,11 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-        <a
-          href="https://the4thbullet.blogspot.com/"
-          target="_blank"
-          rel="dofollow"
-        >
-          Adam Mantite&#44; 2021
+        <Link href="https://the4thbullet.blogspot.com/">
+        <a>
+        Adam Mantite&#44; 2021
         </a>
+        </Link>
       </footer>
     </div>
   );
