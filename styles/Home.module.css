@@ -100,6 +100,10 @@
   line-height: 1.5;
 }
 
+span{
+  font-weight: bold;
+}
+
 @media (max-width: 500px) {
   .grid {
     width: 100%;
