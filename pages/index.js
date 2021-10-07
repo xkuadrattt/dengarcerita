@@ -26,7 +26,7 @@ export default function Home() {
             <a className={styles.card}>
               <h2>Trending No 1 di youtube</h2>
               <p>
-               Music video Album pertama Aespa "savage". dengar dan pastikan download yang ori
+               Music video Album pertama Aespa &ldquo;savage&ldquo;. dengar dan pastikan download yang ori
               </p>
             </a>
           </Link>
