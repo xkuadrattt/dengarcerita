@@ -7,8 +7,8 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Ada Apa Dengan</title>
         <meta name="google-site-verification" content="fVNoX8sfL1rYmN-fi5bVmmYK6m55gtMcMP5L-eUC9Lk" />
+        <title>Ada Apa Dengan</title>
         <meta
           name="description"
           content="video wallpaper lagi viral, ada apa dengan, aplikasi media"
