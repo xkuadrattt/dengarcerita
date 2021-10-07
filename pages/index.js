@@ -26,7 +26,7 @@ export default function Home() {
             <a className={styles.card}>
               <h2>Trending No 1 di youtube</h2>
               <p>
-               Music video Album pertama Aespa &ldquo;savage&ldquo;. dengar dan pastikan download yang ori.  <span>klik di sini</span>
+               Music video Album pertama Aespa &ldquo;savage&ldquo;. dengar dan pastikan download yang ori.  <span className={styles.span}>klik di sini</span>
               </p>
             </a>
           </Link>
@@ -35,7 +35,7 @@ export default function Home() {
             <a className={styles.card}>
               <h2>HP 2 jutaan rekomendasi main ML</h2>
               <p>
-                Mau push rank tapi cuma ada uang 2jt rupiah ?. Hp Samsung M20 sudah cukup main ML grafik kompetitif. Yang penting bisa main bareng kan ?. Langsung beli sekarang. <span>klik di sini</span>
+                Mau push rank tapi cuma ada uang 2jt rupiah ?. Hp Samsung M20 sudah cukup main ML grafik kompetitif. Yang penting bisa main bareng kan ?. Langsung beli sekarang. <span className={styles.span}>klik di sini</span>
               </p>
             </a>
           </Link>
@@ -44,7 +44,7 @@ export default function Home() {
             <a className={styles.card}>
               <h2>Download Termux Terbaru</h2>
               <p>
-               Termux adalah apk tools yang sangat powerful. bisa buat blog. bisa install linux. buat user yang jago, mampu untuk hack juga. <span>klik di sini</span>
+               Termux adalah apk tools yang sangat powerful. bisa buat blog. bisa install linux. buat user yang jago, mampu untuk hack juga. <span className={styles.span}>klik di sini</span>
               </p>
             </a>
           </Link>
@@ -55,7 +55,7 @@ export default function Home() {
               <p>
                 SnapX akan membantu Anda mengunduh video TikTok, Instagram, dan
                 platform sosmed lainnya hanya dengan satu klik. sangat cepat dan
-                mudah. <span>klik di sini</span>
+                mudah. <span className={styles.span}>klik di sini</span>
               </p>
             </a>
           </Link>
@@ -64,7 +64,7 @@ export default function Home() {
             <a className={styles.card}>
               <h2>Rekomendasi Mouse Murah</h2>
               <p>
-                Pake mouse gak perlu bingung batre. Sangat membantu saat WFH. bisa untuk android, windows, chromeOS. harga murah bergaransi resmi. <span>klik di sini</span>
+                Pake mouse gak perlu bingung batre. Sangat membantu saat WFH. bisa untuk android, windows, chromeOS. harga murah bergaransi resmi. <span className={styles.span}>klik di sini</span>
               </p>
             </a>
           </Link>
@@ -73,7 +73,7 @@ export default function Home() {
             <a className={styles.card}>
               <h2>Rekomendasi webcam daring dibawah 500rb</h2>
               <p>
-                Webcam 1080p hanya 260rb rupiah saja. Cocok untuk fasilitas belajar. Jangan sampai bolos sekolah daring. Segera miliki sekarang. <span>klik di sini</span>
+                Webcam 1080p hanya 260rb rupiah saja. Cocok untuk fasilitas belajar. Jangan sampai bolos sekolah daring. Segera miliki sekarang. <span className={styles.span}>klik di sini</span>
               </p>
             </a>
           </Link>
