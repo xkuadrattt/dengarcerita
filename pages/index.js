@@ -35,7 +35,7 @@ export default function Home() {
             <a className={styles.card}>
               <h2>HP 2 jutaan rekomendasi main ML</h2>
               <p>
-                Mau push rank tapi cuma ada uang 2 juta rupiah ?. Hp Samsung M20 sudah cukup main ML grafik kompetitif. Yang penting bisa main bareng kan ?. Langsung beli sekarang
+                Mau push rank tapi cuma ada uang 2jt rupiah ?. Hp Samsung M20 sudah cukup main ML grafik kompetitif. Yang penting bisa main bareng kan ?. Langsung beli sekarang
               </p>
             </a>
           </Link>
@@ -71,9 +71,9 @@ export default function Home() {
 
           <Link href="https://shp.ee/myniwy3">
             <a className={styles.card}>
-              <h2>Rekomendasi webcam daring</h2>
+              <h2>Rekomendasi webcam daring dibawah 500rb</h2>
               <p>
-                Webcam 1080p hanya Rp. 260,000 saja. Cocok untuk fasilitas belajar. Jangan sampai bolos sekolah daring. Segera miliki sekarang
+                Webcam 1080p hanya 260rb rupiah saja. Cocok untuk fasilitas belajar. Jangan sampai bolos sekolah daring. Segera miliki sekarang
               </p>
             </a>
           </Link>
