@@ -22,33 +22,29 @@ export default function Home() {
         <p className={styles.description}>jangan sampai terlewatkan</p>
 
         <div className={styles.grid}>
-          <Link href="https://www.youtube.com/watch?v=SbHJTPppv5Y">
+          <Link href="https://www.youtube.com/watch?v=WPdWvnAAurg&ab_channel=SMTOWN">
             <a className={styles.card}>
-              <h2>Trending di youtube</h2>
+              <h2>Trending No 1 di youtube</h2>
               <p>
-                Deddy Corbuzier menangis terharu karena mendengar cerita Om
-                Indro Warkop&#46; Juga menjelaskan tentang hak paten Warkop
+               Music video Album pertama Aespa "savage". dengar dan pastikan download yang ori
               </p>
             </a>
           </Link>
 
-          <Link href="https://www.youtube.com/results?search_query=boruto+episode+218">
+          <Link href="https://shp.ee/cbrg6f3">
             <a className={styles.card}>
-              <h2>Boruto Episode 218</h2>
+              <h2>HP 2 jutaan rekomendasi main ML</h2>
               <p>
-                Kekuatan mata Rinengan Sasuke hilang&#46; Alasan kenapa Kurama
-                pada tubuh Naruto meninggal&#46;
+                Mau push rank tapi cuma ada uang 2 juta rupiah ?. Hp Samsung M20 sudah cukup main ML grafik kompetitif. Yang penting bisa main bareng kan ?. Langsung beli sekarang
               </p>
             </a>
           </Link>
 
-          <Link href="https://id.wikipedia.org/wiki/4_Oktober">
+          <Link href="https://f-droid.org/packages/com.termux/">
             <a className={styles.card}>
-              <h2>Ada apa dengan 4 Oktober</h2>
+              <h2>Download Termux Terbaru</h2>
               <p>
-                4 Oktober adalah hari ke-277 &#40;kalau tahun kebisat hari
-                ke-278&#41;&#46;&#32;Inilah yang pernah terjadi pada tanggal 4
-                Oktober
+               Termux adalah apk tools yang sangat powerful. bisa buat blog. bisa install linux. siapkan HP terbaikmu.
               </p>
             </a>
           </Link>
@@ -64,22 +60,20 @@ export default function Home() {
             </a>
           </Link>
 
-          <Link href="https://exolyt.com/id/guides/tiktok-money-calculator">
+          <Link href="https://shp.ee/a7sstsj">
             <a className={styles.card}>
-              <h2>Kalkulator Tiktok</h2>
+              <h2>Rekomendasi Mouse Murah</h2>
               <p>
-                Mau menghasilkan uang dari tiktok, tapi mau tau perkiraan
-                dapatnya berapa juga? . Klik di sini
+                Pake mouse gak perlu bingung batre. Sangat membantu saat WFH. bisa untuk android, windows, chromeOS. harga murah bergaransi resmi.
               </p>
             </a>
           </Link>
 
-          <Link href="https://www.youtube.com/results?search_query=cara+daftar+pedulilindungi+">
+          <Link href="https://shp.ee/myniwy3">
             <a className={styles.card}>
-              <h2>Cara daftar pedulilindungi</h2>
+              <h2>Rekomendasi webcam daring</h2>
               <p>
-                Scan barcode vaksin di peduli lindungi sudah wajib. Ini cara
-                daftar di apk pedulilindungi
+                Webcam 1080p hanya Rp. 260,000 saja. Cocok untuk fasilitas belajar. Jangan sampai bolos sekolah daring. Segera miliki sekarang
               </p>
             </a>
           </Link>
