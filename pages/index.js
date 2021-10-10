@@ -84,7 +84,7 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-        <Link href="https://the4thbullet.blogspot.com/">
+        <Link href="https://casualreview0.blogspot.com/">
         <a>
         Adam Mantite&#44; 2021
         </a>
