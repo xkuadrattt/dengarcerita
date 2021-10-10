@@ -7,7 +7,8 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        
+      <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src https://vitals.vercel-insights.com; child-src 'none';" />
+
       <meta name="google-site-verification" content="fVNoX8sfL1rYmN-fi5bVmmYK6m55gtMcMP5L-eUC9Lk" />
         <title>Jalan Pintas</title>
         <meta
