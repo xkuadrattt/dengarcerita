@@ -21,6 +21,25 @@ export default function Home() {
 
         <p className={styles.description}>jangan sampai terlewatkan</p>
 
+        <Link href="https://shp.ee/cbrg6f3">
+            <a className={styles.card}>
+              <h2>HP 2 jutaan rekomendasi main ML</h2>
+              <p>
+                Mau push rank tapi cuma ada uang 2jt rupiah ?. Hp Samsung M20 sudah cukup main ML grafik kompetitif. Yang penting bisa main bareng kan ?. Langsung beli sekarang. <span className={styles.span}>klik di sini</span>
+              </p>
+            </a>
+          </Link>
+
+            
+          <Link href="https://f-droid.org/packages/com.termux/">
+            <a className={styles.card}>
+              <h2>Download Termux Terbaru</h2>
+              <p>
+               Termux adalah apk tools yang sangat powerful. bisa buat blog. bisa install linux. buat user yang jago, mampu untuk hack juga. <span className={styles.span}>klik di sini</span>
+              </p>
+            </a>
+          </Link>
+          
         <div className={styles.grid}>
           <Link href="https://www.youtube.com/watch?v=WPdWvnAAurg&ab_channel=SMTOWN">
             <a className={styles.card}>
@@ -31,24 +50,7 @@ export default function Home() {
             </a>
           </Link>
 
-          <Link href="https://shp.ee/cbrg6f3">
-            <a className={styles.card}>
-              <h2>HP 2 jutaan rekomendasi main ML</h2>
-              <p>
-                Mau push rank tapi cuma ada uang 2jt rupiah ?. Hp Samsung M20 sudah cukup main ML grafik kompetitif. Yang penting bisa main bareng kan ?. Langsung beli sekarang. <span className={styles.span}>klik di sini</span>
-              </p>
-            </a>
-          </Link>
-
-          <Link href="https://f-droid.org/packages/com.termux/">
-            <a className={styles.card}>
-              <h2>Download Termux Terbaru</h2>
-              <p>
-               Termux adalah apk tools yang sangat powerful. bisa buat blog. bisa install linux. buat user yang jago, mampu untuk hack juga. <span className={styles.span}>klik di sini</span>
-              </p>
-            </a>
-          </Link>
-
+       
           <Link href="https://play.google.com/store/apps/details?id=com.video.downloader.snapx">
             <a className={styles.card}>
               <h2>SnapX, sosmed video downloader</h2>
