@@ -9,16 +9,16 @@ export default function Home() {
       <Head>
         
       <meta name="google-site-verification" content="fVNoX8sfL1rYmN-fi5bVmmYK6m55gtMcMP5L-eUC9Lk" />
-        <title>Ada Apa Dengan</title>
+        <title>Jalan Pintas</title>
         <meta
           name="description"
-          content="video wallpaper lagi viral, ada apa dengan, aplikasi media"
+          content="artikel tentang rekomendasi gadget, review ringan, tutorial internet windows"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Info seputar yang viral</h1>
+        <h1 className={styles.title}>Halaman ini membantu link legit</h1>
 
         <p className={styles.description}>jangan sampai terlewatkan</p>
         <div className={styles.grid}>
