@@ -7,7 +7,8 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-      <meta name="google-site-verification" content="9zjwroBik2HbFPTGriMSjEBw5Qs_Eie0X2u7-ObFLiQ" />
+        
+      <meta name="google-site-verification" content="fVNoX8sfL1rYmN-fi5bVmmYK6m55gtMcMP5L-eUC9Lk" />
         <title>Ada Apa Dengan</title>
         <meta
           name="description"
