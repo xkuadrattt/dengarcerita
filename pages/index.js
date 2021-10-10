@@ -20,7 +20,7 @@ export default function Home() {
         <h1 className={styles.title}>Info seputar yang viral</h1>
 
         <p className={styles.description}>jangan sampai terlewatkan</p>
-
+        <div className={styles.grid}>
         <Link href="https://shp.ee/cbrg6f3">
             <a className={styles.card}>
               <h2>HP 2 jutaan rekomendasi main ML</h2>
@@ -40,7 +40,7 @@ export default function Home() {
             </a>
           </Link>
           
-        <div className={styles.grid}>
+      
           <Link href="https://casualreview0.blogspot.com/2021/10/kenalan-dengan-chocolatey-package_10.html">
             <a className={styles.card}>
               <h2>Kenal intim dengan Chocolatey, Package Manager untuk Windows</h2>
