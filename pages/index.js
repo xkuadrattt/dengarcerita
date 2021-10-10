@@ -41,11 +41,11 @@ export default function Home() {
           </Link>
           
         <div className={styles.grid}>
-          <Link href="https://www.youtube.com/watch?v=WPdWvnAAurg&ab_channel=SMTOWN">
+          <Link href="https://casualreview0.blogspot.com/2021/10/kenalan-dengan-chocolatey-package_10.html">
             <a className={styles.card}>
-              <h2>Trending No 1 di youtube</h2>
+              <h2>Kenal intim dengan Chocolatey, Package Manager untuk Windows</h2>
               <p>
-               Music video Album pertama Aespa &ldquo;savage&ldquo;. dengar dan pastikan download yang ori.  <span className={styles.span}>klik di sini</span>
+               Install gaya wget linux ala Windows. User Windows harus tau ini.  <span className={styles.span}>klik di sini</span>
               </p>
             </a>
           </Link>
