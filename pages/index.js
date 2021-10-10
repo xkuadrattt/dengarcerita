@@ -7,11 +7,6 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-      <link rel="preconnect" href="https://fonts.googleapis.com" />
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet" />
-      <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src https://vitals.vercel-insights.com; child-src 'none';" />
-
       <meta name="google-site-verification" content="fVNoX8sfL1rYmN-fi5bVmmYK6m55gtMcMP5L-eUC9Lk" />
         <title>Jalan Pintas</title>
         <meta
