@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "fs": "^0.0.1-security",
-    "globby": "^12.0.2",
     "next": "11.1.2",
     "prettier": "^2.4.1",
     "react": "17.0.2",
