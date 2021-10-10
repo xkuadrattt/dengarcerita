@@ -8,8 +8,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
       <meta name="google-site-verification" content="fVNoX8sfL1rYmN-fi5bVmmYK6m55gtMcMP5L-eUC9Lk" />
-      <script async crossorigin src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6194463666465691"
-     crossorigin="anonymous"></script>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6194463666465691"></script>
         <title>Jalan Pintas</title>
         <meta
           name="description"
