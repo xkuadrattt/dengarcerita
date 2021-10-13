@@ -18,7 +18,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Halaman ini membantu link legit</h1>
+        <h1 className={styles.title}>Saya kesepian, saya senang didengar. Terima Kasih</h1>
 
         <p className={styles.description}>jangan sampai terlewatkan</p>
         <div className={styles.grid}>
